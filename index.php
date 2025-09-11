@@ -8,6 +8,6 @@
 <body>
     <h1>if you say</h1>
     <data value=""></data>
-    <samp>2</samp>
+
 </body>
 </html>
